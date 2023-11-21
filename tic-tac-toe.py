@@ -14,7 +14,7 @@ def print_paper():
 
 print_paper()
 
-while not((" " != values[0] ==  values[1] == values[2] or " " != values[0] ==  values[3] == values[6] or " " != values[0] ==  values[4] == values[8] or " " != values[1] ==  values[4] == values[7] or " " != values[2] ==  values[5] == values[8] or " " != values[3] ==  values[4] == values[5] or " " != values[6] ==  values[7] == values[8] or " " != values[2] ==  values[4] == values[6]) or (values[0] and values[1] and values[2] and values[3] and values[4] and values[5] and values[6] and values[7] and values [8] != " ")):
+while not((" " != values[0] == values[1] == values[2] or " " != values[0] == values[3] == values[6] or " " != values[0] == values[4] == values[8] or " " != values[1] == values[4] == values[7] or " " != values[2] == values[5] == values[8] or " " != values[3] == values[4] == values[5] or " " != values[6] == values[7] == values[8] or " " != values[0] == values[1] == values[2] or " " != values[3] == values[4] == values[5] or " " != values[6] == values[7] == values[8] or " " != values[0] == values[4] == values[8] or " " != values[2] == values[4] == values[6]) or (values[0] and values[1] and values[2] and values[3] and values[4] and values[5] and values[6] and values[7] and values[8] != " ")):
 
     user = input("Choose where do you want to place X: ")
     data = int(user) - 1
