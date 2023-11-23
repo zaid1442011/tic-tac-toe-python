@@ -3,6 +3,8 @@ A simple Python game.
 
 If you want to add some features, make a pull request.
 
+[![Run on Repl.it](https://replit.com/badge/github/zaid1442011/tic-tac-toe-python)](https://replit.com/@zaid1442011/tic-tac-toe-python)
+
 ## Download Instructions
 
 Go to a Terminal window and type
